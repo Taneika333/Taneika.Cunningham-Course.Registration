@@ -1,0 +1,35 @@
+﻿Author: Taneika Cunningham 
+Date Created: December 14, 2024 
+Course: ITT103 
+GitHub Public URL to Code:https://github.com/Taneika333/Taneika.Cunningham-Course.Registration 
+
+
+
+
+Limitation:
+A pleasant day to you, My program was created in google-collab since I had no space on my device to accommodate a new app. Running my program in another browser may be a limitation to its functionality. 
+Purpose:
+This is a menu-driven python program application that,
+1. Register students and manage their details. 
+2. Add courses with unique identifiers and fees. 
+3. Allow students to enroll in courses while tracking their balance. 
+4. Accept partial payments (minimum 40% of the balance) and update the outstanding balance. 5. Provide administrators with tools to view enrolled students, course details, and individual student balances. 
+
+
+Note that a student has to be registered and courses have to be added in the system before you can enroll them to a course and check the other options. The program uses error handling to ensure the system is robust and user-friendly. 
+
+
+How to run it: 
+With the use of a while loop, the user will be able to select an option from 1-9 and input the necessary information to fulfil their objective. 
+
+
+("Welcome to UCC dashboard. ") # greet the user on the registration dashboard.
+ ("1. Add a course") #option for the user to add a course
+  ("2. Register students") #option for the user to register a student
+  ("3. Enroll in a course") #option for the user to enroll a student to a course.
+   (4. Calculate payment") #option for the user to calculate payment
+   ("5. Check student balance") #option for the user check a student balance
+   ("6. Show available courses") #option for the user to show all available courses
+   ("7. Show registered students") #option for the user to show all registered students
+   ("8. Show students in a course") #option for the user to show all the students in a specific    course.
+   ("9. Exit")
